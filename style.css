@@ -1,0 +1,55 @@
+*{box-sizing: border-box;
+ }
+
+body{
+    background-color: black;
+}
+
+.bg-white{
+    background:white;
+}
+
+.flex{
+    display: flex;
+}
+
+.header{
+    height: 70px;
+    padding: 10px;
+    width: 100%;
+    background:white;
+}
+
+.header-title{
+    float: left;
+    width: 80%;
+}
+
+.header-title p{
+    margin: 0;
+}
+
+.header-left{
+    float: left;
+    margin-right: 9px;
+}
+
+.header-right{
+    float: right;
+}
+
+.landscape img{
+    width: 100%;
+}
+
+.icon{
+    margin:0;
+}
+
+.far fa-bookmark{
+    float: right;
+}
+
+.content{
+    padding: 10px;
+}
